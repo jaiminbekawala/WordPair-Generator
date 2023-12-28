@@ -1,10 +1,9 @@
 # wordpair_generator
 
-A new Flutter project.
+A new Flutter project. Generates an endless list of wordpairs. I also added a favorite button and a different drawer page which will save those favorited words.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+This project was my second of the many Flutter applications I've built and gained an understanding of how building an application is a puzzle of peices which you have to make them fit together and work flawlessly.
 
 A few resources to get you started if this is your first Flutter project:
 
